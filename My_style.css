@@ -1,0 +1,28 @@
+h1
+{
+	font-size: 50px;
+}
+
+p
+{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: mediumturquoise;
+}
+
+div
+{
+	background-color: orange;
+}
+
+img
+{
+	border-radius: 25px;
+	height: 30%;
+	width: 30%;
+}
+
+body
+{
+font-family: arial;
+}
